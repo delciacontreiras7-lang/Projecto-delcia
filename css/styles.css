@@ -40,7 +40,11 @@ a {
     bottom: -2px; /* distância do texto */
     transition: width 0.3s;
   }
+  .modulo {
+    width: 300px;
+    height: 180px;
+  }
   
-  
-  
-  
+  h1{
+    color: white;
+  }
